@@ -36,7 +36,7 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
   
 ## Skills
 
-- **Programming Languages:**  **React** **C#, JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
+- **Programming Languages:**  **React**, **C#, JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS, User Story, Use Case,…), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
@@ -67,7 +67,7 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 
 | Project Name                          | Project Output                                                                                                                                                        | Role         | Team Size | My Position         | My Responsibilities                                                                                                            | Technologies Used                             |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------|---------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Theatre Management System - Saigon Technology University | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | 3         | Front-end developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | React, node
+| Theatre Management System  | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | 3         | Front-end developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | React, node
 
 
 
