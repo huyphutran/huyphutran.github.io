@@ -1,6 +1,6 @@
 # PHU HUY TRAN
 
-<div style="float: right; margin: 0 0 10px 10px; max-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
+<div style="float: right; margin: 0 0 10px 10px; max-width: 100px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
   <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="width: 10%; height: auto; border-radius: 10px;">
 </div>
 
