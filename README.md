@@ -1,27 +1,17 @@
 # PHU HUY TRAN
 
----
-
-## Portfolio
-
 <div style="float: right; margin: 10px; max-width: 200px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="display: block; width: 50%; height: auto;">
+    <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="display: block; width: 100%; height: auto;">
 </div>
 
-
----
-
-### Contact Information
-
+## Contact Information
 - **Address:** Ho Chi Minh, Vietnam 71800
 - **Phone:** 0941413524
 - **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
+  
+## Connect with Me
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](Your_LinkedIn_Profile_URL)
 
----
-
-### Connect with Me
-
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/tran-phu-493ba8255/)
 
 ## Ojective
 
