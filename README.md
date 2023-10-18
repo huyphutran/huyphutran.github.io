@@ -34,12 +34,19 @@ I graduated with a bachelor's degree in information technology and have 2 years 
 - Visual StudioVisual Studio CodeSQL Server Management StudioPostmanGitJiraScrum/Agile
 
 
-## Projects
+## Personal Projects
+**Hai Lua Academy**  
 
 | Project Name                          | Project Output                                                                                                                                                        | Role         | Tasks                                                                                                                                                                         |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hai Lua Restaurant Order Management System | - Digitalize the Order Management System of Hai Lua restaurant<br>- Integration of Cash & Non-cash payment methods<br>- Optimize the coordination between front & back of the restaurant<br>- View and manage reports, data | Business Analyst | - Elicitate & analysis requirements<br>- Create User Story according to Business Case<br>- Analysis as-is process, build & describe to-be process by BPD<br>- System analysis & create Use Case Diagram<br>- Build-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)<br>- Design UX/UI, build system mockup |
-| Theatre Management System - Saigon Technology University | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | - Design and develop the frontend and backend modules<br>- Integrate third-party services and APIs<br>- Write unit and integration tests<br>- Collaborate with other team members for deployment and maintenance |
+
+**Saigon Technology University, Ho Chi Minh**  
+
+| Project Name                          | Project Output                                                                                                                                                        | Role         | Team Size | My Position         | My Responsibilities                                                                                                            | Technologies Used                             |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------|---------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Theatre Management System - Saigon Technology University | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | 3         | Front-end developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | React, node
+
 
 ## Education
 
