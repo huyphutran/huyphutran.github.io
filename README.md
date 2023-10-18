@@ -1,14 +1,16 @@
 # PHU HUY TRAN
 
-![Profile Image](344573135_1621149485050575_4697357578012439074_n.jpg)
+<img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="max-width: 30%; height: auto; border-radius: 10px;">
 
 **Address:** Ho Chi Minh, Vietnam 71800  
 **Phone:** 0941413524  
 **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)  
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/tran-phu-493ba8255/)
 
-## About Me
+## Ojective
 
-I graduated with a bachelor's degree in information technology and have 2 years of experience in the e-commerce industry. I have equipped myself with IT knowledge, product development life cycle, and strong business analysis skills. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+Seeking the position of a Developer where I would be able to put to use the knowledge gained in the software development cycle and technical aptitude.
+I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Work History 
 
@@ -59,7 +61,7 @@ Major: Information Technology
 Certificate: Business Analyst Foundation.
 
 **Udemy**  
-Certificate: Advanced Process Flow Chart.
-Certificate: Intermediate OOP, Classes and Structor.
-Certificate: Design Pattern.
+- Certificate: Advanced Process Flow Chart.
+- Certificate: Intermediate OOP, Classes and Structor.
+- Certificate: Design Pattern.
 
