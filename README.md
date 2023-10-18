@@ -1,6 +1,6 @@
 # PHU HUY TRAN
 
-![Profile Image](URL-TO-PROFILE-IMAGE)
+![Profile Image](344573135_1621149485050575_4697357578012439074_n.jpg)
 
 **Address:** Ho Chi Minh, Vietnam 71800  
 **Phone:** 0941413524  
@@ -8,54 +8,51 @@
 
 ## About Me
 
-I graduated with a bachelor's degree in information technology and have 2 years of experience in the e-commerce industry. I have equipped myself with IT knowledge, product development life cycle, and strong business analysis skills. My objective is to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I graduated with a bachelor's degree in information technology and have 2 years of experience in the e-commerce industry. I have equipped myself with IT knowledge, product development life cycle, and strong business analysis skills. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Work History 
 
 ### ESORITY LLC, Garland, Texas 
-
-**Business Development**  
-*Duration: 12/2020 – 6/2022*
-- Conduct market research and product analysis to identify new trends in E-commerce site.
+**Business Development Team Leader**  
+*Duration: 12/2020 – 6/2023*
+- Conduct market research and product analysis to identify new trends in E-commerce sites.
 - Established relationships with brands and distributors, negotiating prices and terms.
-
-**Business Analyst**  
-*Duration: 6/2022 – 7/2023*
-- Analyze requirements and clarify after PM elicits requirements from the sales, inventory, and warehouse departments. 
-- Prepare SRS document.
-- Create and track tasks on Jira.
-- Prepare and update the user guide.
-- Write reports and present project outcomes to stakeholders.
-- Meeting with related project departments to adjust the product.
+- Lead a small team of 4 - 5 members.
+- Create and track tasks KPI for team members on Jira.
+- Take part in Quality Control to ensure that the data stored in a database is accurate, consistent, and meets specific standards.
+- Take part in developing new processes or procedures, and continually put into practice how to improve the processes.
+- Write reports and present weekend, monthly, and quarterly reports.
 
 ## Skills
 
-**Professional Skills**  
-- Requirements gathering and analysis.
-- Information Analysis
-- Business Analysis
-- Documents (BRD, SRS, User Story, Use Case,…)
 
-**Additional Skills**  
-- UI/UX Design (Figma)
-- C#, Javascript
-- Data Manage (SQL)
-- English
+- **Programming Languages:**  **React** **C#, JavaScript**, CSS, SCSS/HTML, SQL, Design Pattern, Visual Basic, etc.
+- **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
+
+**Software Knowledge**  
+
+- Visual StudioVisual Studio CodeSQL Server Management StudioPostmanGitJiraScrum/Agile
+
 
 ## Projects
 
-- **Order Management System** - BA at Hai Lua Business Analysis Academy.
-- **Theatre Management System** - Saigon Technology University.
+| Project Name                          | Project Output                                                                                                                                                        | Role         | Tasks                                                                                                                                                                         |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hai Lua Restaurant Order Management System | - Digitalize the Order Management System of Hai Lua restaurant<br>- Integration of Cash & Non-cash payment methods<br>- Optimize the coordination between front & back of the restaurant<br>- View and manage reports, data | Business Analyst | - Elicitate & analysis requirements<br>- Create User Story according to Business Case<br>- Analysis as-is process, build & describe to-be process by BPD<br>- System analysis & create Use Case Diagram<br>- Build-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)<br>- Design UX/UI, build system mockup |
+| Theatre Management System - Saigon Technology University | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | - Design and develop the frontend and backend modules<br>- Integrate third-party services and APIs<br>- Write unit and integration tests<br>- Collaborate with other team members for deployment and maintenance |
 
 ## Education
 
 **Saigon Technology University, Ho Chi Minh**  
-*2022*  
+*2023*  
 Major: Information Technology 
 
 **Hai Lua Business Analysis Academy**  
 *2023*  
-Certificate: Business Analyst Foundation 
+Certificate: Business Analyst Foundation.
 
 **Udemy**  
-Certificate: Advanced Process Flow Chart
+Certificate: Advanced Process Flow Chart.
+Certificate: Intermediate OOP, Classes and Structor.
+Certificate: Design Pattern.
+
