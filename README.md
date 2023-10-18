@@ -23,11 +23,11 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 
 **Saigon Technology University, Ho Chi Minh**  
 *2023*  
-Major: Information Technology 
+- Major: Information Technology 
 
 **Hai Lua Business Analysis Academy**  
 *2023*  
-Certificate: Business Analyst Foundation.
+- Certificate: Business Analyst Foundation.
 
 **Udemy**  
 - Certificate: Advanced Process Flow Chart.
