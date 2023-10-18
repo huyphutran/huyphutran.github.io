@@ -1,5 +1,5 @@
 
-<div style="float: right; margin: 10px; max-width: 200px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="float: right; margin: 10px; max-width: 140px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="display: block; width: 100%; height: auto;">
 </div>
 
@@ -36,7 +36,7 @@ Certificate: Business Analyst Foundation.
   
 ## Skills
 
-- **Programming Languages:**  **React** **C#, JavaScript**, CSS, SCSS/HTML, SQL, Design Pattern, Visual Basic, etc.
+- **Programming Languages:**  **React** **C#, JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS, User Story, Use Case,…), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
