@@ -1,6 +1,6 @@
 # PHU HUY TRAN
 
-<img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="max-width: 30%; height: auto; border-radius: 10px;">
+<img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="max-width: 100px; height: auto; border-radius: 10px;">
 
 **Address:** Ho Chi Minh, Vietnam 71800  
 **Phone:** 0941413524  
