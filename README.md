@@ -36,7 +36,7 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
   
 ## Skills
 
-- **Programming Languages:**  **React**, **C#, JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
+- **Programming Languages:**  **React**, **C#**, JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS, User Story, Use Case,…), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
