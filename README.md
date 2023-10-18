@@ -4,9 +4,10 @@
 
 ## Portfolio
 
-<div style="width: 200px; border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-  <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="width: 10%; height: 10%;">
+<div style="float: right; margin: 0 0 10px 10px; max-width: 200px; border: 1px solid #ccc; border-radius: 10px; padding: 10px;">
+  <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="max-width: 100%; height: auto; border-radius: 10px;">
 </div>
+
 
 ---
 
