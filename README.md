@@ -27,14 +27,14 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 *2023*  
 - Major: Information Technology 
 
+**Udemy**  
+- Certificate: Intermediate OOP, Classes and Structor.
+- Certificate: Design Pattern.
+- Certificate: Advanced Process Flow Chart.
+
 **Hai Lua Business Analysis Academy**  
 *2023*  
 - Certificate: Business Analyst Foundation.
-
-**Udemy**  
-- Certificate: Advanced Process Flow Chart.
-- Certificate: Intermediate OOP, Classes and Structor.
-- Certificate: Design Pattern.
   
 ## Skills
 
@@ -59,11 +59,6 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 
 
 ## Personal Projects
-**Hai Lua Academy**  
-
-| Project Name                          | Project Output                                                                                                                                                        | My Position         | My Responsibilities                                                                                                                                                                         |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hai Lua Restaurant Order Management System | - Digitalize the Order Management System of Hai Lua restaurant<br>- Integration of Cash & Non-cash payment methods<br>- Optimize the coordination between front & back of the restaurant<br>- View and manage reports, data | Business Analyst | - Elicitate & analysis requirements<br>- Create User Story according to Business Case<br>- Analysis as-is process, build & describe to-be process by BPD<br>- System analysis & create Use Case Diagram<br>- Build-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)<br>- Design UX/UI, build system mockup |
 
 **Saigon Technology University, Ho Chi Minh**  
 
@@ -71,6 +66,10 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------|---------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | Theatre Management System  | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | 3         | Front-end developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | React, node
 
+**Hai Lua Academy**  
 
+| Project Name                          | Project Output                                                                                                                                                        | My Position         | My Responsibilities                                                                                                                                                                         |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hai Lua Restaurant Order Management System | - Digitalize the Order Management System of Hai Lua restaurant<br>- Integration of Cash & Non-cash payment methods<br>- Optimize the coordination between front & back of the restaurant<br>- View and manage reports, data | Business Analyst | - Elicitate & analysis requirements<br>- Create User Story according to Business Case<br>- Analysis as-is process, build & describe to-be process by BPD<br>- System analysis & create Use Case Diagram<br>- Build-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)<br>- Design UX/UI, build system mockup |
 
 
