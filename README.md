@@ -11,7 +11,9 @@
 - **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
   
 ## Connect with Me
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/tran-phu-493ba8255/)
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/tran-phu-493ba8255/) 
+[![Print](https://img.icons8.com/metro/26/000000/print.png)](javascript:window.print())
+
 
 
 ## Ojective
