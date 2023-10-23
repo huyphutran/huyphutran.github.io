@@ -18,7 +18,7 @@
 
 ## Ojective
 
-Seeking the position of a Developer where I would be able to put to use the knowledge gained in the software development cycle and technical aptitude.
+I am seeking the position of a Developer where I can put to use the knowledge gained in the software development cycle and technical aptitude.
 I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Education
@@ -38,15 +38,15 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
   
 ## Skills
 
-- **Programming Languages:**  **React**, **C#**, **JavaScript**, CSS, SCSS/HTML, SQL, Visual Basic, etc.
-- **Additional Knowledge:**   Documents (BRD, SRS, User Story, Use Case,…), Business Process Analysis. 	
+- **Programming Languages:**  **C#**,**.NET**,**RESTAPI**,**React**,**LINQ**, **JavaScript**,**REST, CSS, SCSS/HTML, SQL, etc.
+- **Additional Knowledge:**   Documents (BRD, SRS..), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
 
 ## Work History 
 
 ### ESORITY LLC, Garland, Texas 
-**Business Development Team Leader**  
+**E-commerce Business Development Team Leader**  
 *Duration: 12/2020 – 6/2023*
 - Conduct market research and product analysis to identify new trends in E-commerce sites.
 - Established relationships with brands and distributors, negotiating prices and terms.
@@ -55,7 +55,6 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 - Take part in Quality Control to ensure that the data stored in a database is accurate, consistent, and meets specific standards.
 - Take part in developing new processes or procedures, and continually put into practice how to improve the processes.
 - Write reports and present weekend, monthly, and quarterly reports.
-
 
 
 ## Personal Projects
