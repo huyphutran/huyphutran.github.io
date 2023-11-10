@@ -29,7 +29,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
   
 ## Skills
 
-- **Programming Languages:**  **C#**,**.NET**,**RESTAPI**,**React**,**LINQ**, **JavaScript**,**REST/RESTFUL**, CSS, SCSS/HTML, SQL, etc.
+- **Programming Languages:**  **C#**, **.NET**, **RESTAPI**, **REST/RESTFUL**, **LINQ**, **JavaScript**, **React**, SQL, CSS, SCSS/HTML, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
