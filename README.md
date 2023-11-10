@@ -50,14 +50,15 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 *Duration: 12/2020 – 6/2023*
 - Conduct market research and product analysis to identify new trends in E-commerce sites.
 - Established relationships with brands and distributors, negotiating prices and terms.
-- Lead a small team of 4 - 5 members.
 - Create and track tasks KPI for team members on Jira.
-- Take part in Quality Control to ensure that the data stored in a database is accurate, consistent, and meets specific standards.
 - Take part in developing new processes or procedures, and continually put into practice how to improve the processes.
-- Write reports and present weekend, monthly, and quarterly reports.
 
 
 ## Personal Projects
+
+| Name                         | Project Output                                                                                                                                                                                                      | Role              | Team Size | My Position         | My Responsibilities                                          | Technologies Used   |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|---------------------|--------------------------------------------------------------|----------------------|
+| Inventory Management System  | - Developed Inventory Management System (IMS) for efficient inventory and product management. - Implemented functionality for products, inventories, and reports. - Managed activities like selling, producing, and purchasing products. - Created a reporting system for product data. | Developer         | 1         |  Developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | Blazor WebApp, .NET 6 and Entity FraneWorkCore         |
 
 **Saigon Technology University, Ho Chi Minh**  
 
