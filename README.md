@@ -47,23 +47,22 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 
 ### Inventory Management System
 
-- Developed Inventory Management System (IMS) for efficient inventory and product management.
+- Developed an Inventory Management System (IMS) for efficient inventory and product management.
 - Implemented functionality for products, inventories, and reports.
 - Managed activities like selling, producing, and purchasing products.
 - Created a reporting system for product data.
 
-**Role:** Developer  
 **Team Size:** 1  
 **My Position:** Developer
 <br/>
 
 **My Responsibilities:**
-- Tech Design
-- Coding, Test
-- Design WebApp with Clean Architecture Pattern
-- Requirement Engineering
+- Independently designed and developed the entire Inventory Management System (IMS) from scratch.
+- Implemented a clean architecture pattern to ensure a well-organized and maintainable codebase.
+- UI/UX Design.
+- Created object-oriented modules for efficient inventory and product management.
 
-**Technologies Used:** Blazor WebApp, .NET 6 and Entity Framework Core
+**Technologies Used:** Blazor WebApp, .NET 6, and Entity Framework Core
 
 ### Theatre Management System
 
@@ -71,24 +70,23 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 - Integrated various payment gateways.
 - Implemented real-time seat availability check and booking.
 - Created an analytics dashboard for performance and revenue tracking.
-
-**Role:** Developer  
+  
 **Team Size:** 3  
-**My Position:** Front-end Developer
+**My Position:** Developer
 <br/>
 **My Responsibilities:**
-- Tech Design
-- Coding, Test
-- Requirement Engineering
+- Designed and created the user interface (UI) and user experience (UX) for the platform.
+- Conducted thorough testing to ensure a seamless user experience.
+- Played a key role in UI/UX design, coding, testing, and requirement engineering.
 
 **Technologies Used:** React, Node
 
 ### Hai Lua Restaurant Order Management System
 
 - Digitalized the Order Management System of Hai Lua restaurant.
-- Integrated Cash & Non-cash payment methods.
-- Optimized the coordination between front & back of the restaurant.
-- Viewed and managed reports, data.
+- Integrated Cash and non-cash payment methods.
+- Optimized the coordination between the front & back of the restaurant.
+- Viewed and managed reports, and data.
 
 **My Position:** Business Analyst
 <br/>
