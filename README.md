@@ -1,4 +1,4 @@
-# PHU HUY TRAN 
+# .NET Developer
 ## Contact Information
 - **Address:** Ho Chi Minh, Vietnam 71800
 - **Phone:** 0941413524
@@ -29,7 +29,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
   
 ## Skills
 
-- **Programming Languages:**  **C#**,**.NET**,**RESTAPI**,**React**,**LINQ**, **JavaScript**,**REST, CSS, SCSS/HTML, SQL, etc.
+- **Programming Languages:**  **C#**,**.NET**,**RESTAPI**,**React**,**LINQ**, **JavaScript**,**REST/RESTFUL**, CSS, SCSS/HTML, SQL, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
