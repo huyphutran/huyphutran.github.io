@@ -55,6 +55,8 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 **Role:** Developer  
 **Team Size:** 1  
 **My Position:** Developer
+<br/>
+
 **My Responsibilities:**
 - Tech Design
 - Coding, Test
@@ -73,6 +75,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 **Role:** Developer  
 **Team Size:** 3  
 **My Position:** Front-end Developer
+<br/>
 **My Responsibilities:**
 - Tech Design
 - Coding, Test
@@ -88,6 +91,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 - Viewed and managed reports, data.
 
 **My Position:** Business Analyst
+<br/>
 **My Responsibilities:**
 - Elicitated & analyzed requirements
 - Created User Story according to Business Case
