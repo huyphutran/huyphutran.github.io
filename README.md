@@ -45,55 +45,10 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 
 ## Personal Projects
 
-### Inventory Management System
+| Project                   | Description                                                                                                                                                                                                                                | Team Size | My Position        | Responsibilities                                                                                                                              | Technologies Used                            |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Inventory Management System | - Developed an Inventory Management System (IMS) for efficient inventory and product management.<br>- Implemented functionality for products, inventories, and reports.<br>- Managed activities like selling, producing, and purchasing products.<br>- Created a reporting system for product data. | 1         | Developer          | - Designed and developed IMS from scratch.<br>- Implemented clean architecture pattern.<br>- Conducted UI/UX Design.<br>- Created object-oriented modules for inventory and product management. | Blazor WebApp, .NET 6, Entity Framework Core |
+| Theatre Management System   | - Developed a digital platform for booking and managing theater shows.<br>- Integrated various payment gateways.<br>- Implemented real-time seat availability checks and booking.<br>- Created an analytics dashboard for performance and revenue tracking.                   | 4         | Developer          | - Designed and created UI/UX.<br>- Conducted testing for seamless user experience.<br>- Contributed to UI/UX design, coding, testing, and requirement engineering.              | React, Node                                  |
+| Hai Lua Restaurant Order Management System | - Digitalized the Order Management System of Hai Lua restaurant.<br>- Optimized coordination between front & back of the restaurant.<br>- Viewed and managed reports and data.                                                                  | 3         | Business Analyst   | - Elicited & analyzed requirements.<br>- Created User Stories based on Business Case.<br>- Analyzed and described as-is and to-be processes using BPD.<br>- Developed system documents and designed UX/UI. | -                                           |
 
-- Developed an Inventory Management System (IMS) for efficient inventory and product management.
-- Implemented functionality for products, inventories, and reports.
-- Managed activities like selling, producing, and purchasing products.
-- Created a reporting system for product data.
 
-**Team Size:** 1  
-**My Position:** Developer
-<br/>
-
-**My Responsibilities:**
-- Independently designed and developed the entire Inventory Management System (IMS) from scratch.
-- Implemented a clean architecture pattern to ensure a well-organized and maintainable codebase.
-- UI/UX Design.
-- Created object-oriented modules for efficient inventory and product management.
-
-**Technologies Used:** Blazor WebApp, .NET 6, and Entity Framework Core
-
-### Theatre Management System
-
-- Developed a digital platform for booking and managing theater shows.
-- Integrated various payment gateways.
-- Implemented real-time seat availability check and booking.
-- Created an analytics dashboard for performance and revenue tracking.
-  
-**Team Size:** 3  
-**My Position:** Developer
-<br/>
-**My Responsibilities:**
-- Designed and created the user interface (UI) and user experience (UX) for the platform.
-- Conducted thorough testing to ensure a seamless user experience.
-- Played a key role in UI/UX design, coding, testing, and requirement engineering.
-
-**Technologies Used:** React, Node
-
-### Hai Lua Restaurant Order Management System
-
-- Digitalized the Order Management System of Hai Lua restaurant.
-- Integrated Cash and non-cash payment methods.
-- Optimized the coordination between the front & back of the restaurant.
-- Viewed and managed reports, and data.
-
-**My Position:** Business Analyst
-<br/>
-**My Responsibilities:**
-- Elicitated & analyzed requirements
-- Created User Story according to Business Case
-- Analyzed as-is process, built & described to-be process by BPD
-- System analysis & created Use Case Diagram
-- Built-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)
-- Designed UX/UI, built system mockup
