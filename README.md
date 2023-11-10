@@ -1,9 +1,3 @@
-
-<div style="float: right; margin: 10px; max-width: 140px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github.com/huyphutran/huyphutran.github.io/assets/49059492/55058d6a-fb9f-405f-9371-60f23644f2ba" alt="Portfolio Image" style="display: block; width: 100%; height: auto;">
-</div>
-
-
 # PHU HUY TRAN 
 ## Contact Information
 - **Address:** Ho Chi Minh, Vietnam 71800
@@ -14,34 +8,30 @@
 [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/tran-phu-493ba8255/) 
 [![Print](https://img.icons8.com/metro/26/000000/print.png)](javascript:window.print())
 
+## Objective
 
-
-## Ojective
-
-I am seeking the position of a Developer where I can put to use the knowledge gained in the software development cycle and technical aptitude.
-I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I am seeking the position of a Developer where I can put to use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Education
 
-**Saigon Technology University, Ho Chi Minh**  
-*2023*  
-- Major: Information Technology 
+- **Saigon Technology University, Ho Chi Minh**  
+  *2023*  
+  - Major: Information Technology 
 
-**Udemy**  
-- Certificate: Intermediate OOP, Classes and Structor.
-- Certificate: Design Pattern.
-- Certificate: Advanced Process Flow Chart.
+- **Udemy**  
+  - Certificate: Intermediate OOP, Classes and Structor.
+  - Certificate: Design Pattern.
+  - Certificate: Advanced Process Flow Chart.
 
-**Hai Lua Business Analysis Academy**  
-*2023*  
-- Certificate: Business Analyst Foundation.
+- **Hai Lua Business Analysis Academy**  
+  *2023*  
+  - Certificate: Business Analyst Foundation.
   
 ## Skills
 
 - **Programming Languages:**  **C#**,**.NET**,**RESTAPI**,**React**,**LINQ**, **JavaScript**,**REST, CSS, SCSS/HTML, SQL, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
-
 
 ## Work History 
 
@@ -53,23 +43,55 @@ I aim to find a multi-domain organization where I can utilize my expertise to co
 - Create and track tasks KPI for team members on Jira.
 - Take part in developing new processes or procedures, and continually put into practice how to improve the processes.
 
-
 ## Personal Projects
 
-| Name                         | Project Output                                                                                                                                                                                                      | Role              | Team Size | My Position         | My Responsibilities                                          | Technologies Used   |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|---------------------|--------------------------------------------------------------|----------------------|
-| Inventory Management System  | - Developed Inventory Management System (IMS) for efficient inventory and product management. - Implemented functionality for products, inventories, and reports. - Managed activities like selling, producing, and purchasing products. - Created a reporting system for product data. | Developer         | 1         |  Developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | Blazor WebApp, .NET 6 and Entity FraneWorkCore         |
+### Inventory Management System
 
-**Saigon Technology University, Ho Chi Minh**  
+- Developed Inventory Management System (IMS) for efficient inventory and product management.
+- Implemented functionality for products, inventories, and reports.
+- Managed activities like selling, producing, and purchasing products.
+- Created a reporting system for product data.
 
-| Project Name                          | Project Output                                                                                                                                                        | Role         | Team Size | My Position         | My Responsibilities                                                                                                            | Technologies Used                             |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------|---------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Theatre Management System  | - Digital platform for booking and managing theater shows<br>- Integration of various payment gateways<br>- Real-time seat availability check and booking<br>- Analytics dashboard for performance and revenue tracking | Developer | 3         | Front-end developer | - Tech Design<br>- Coding, Test<br>- Design Pattern<br>- Requirement Engineering  | React, node
+**Role:** Developer  
+**Team Size:** 1  
+**My Position:** Developer
+**My Responsibilities:**
+- Tech Design
+- Coding, Test
+- Design WebApp with Clean Architecture Pattern
+- Requirement Engineering
 
-**Hai Lua Academy**  
+**Technologies Used:** Blazor WebApp, .NET 6 and Entity Framework Core
 
-| Project Name                          | Project Output                                                                                                                                                        | My Position         | My Responsibilities                                                                                                                                                                         |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hai Lua Restaurant Order Management System | - Digitalize the Order Management System of Hai Lua restaurant<br>- Integration of Cash & Non-cash payment methods<br>- Optimize the coordination between front & back of the restaurant<br>- View and manage reports, data | Business Analyst | - Elicitate & analysis requirements<br>- Create User Story according to Business Case<br>- Analysis as-is process, build & describe to-be process by BPD<br>- System analysis & create Use Case Diagram<br>- Build-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)<br>- Design UX/UI, build system mockup |
+### Theatre Management System
 
+- Developed a digital platform for booking and managing theater shows.
+- Integrated various payment gateways.
+- Implemented real-time seat availability check and booking.
+- Created an analytics dashboard for performance and revenue tracking.
 
+**Role:** Developer  
+**Team Size:** 3  
+**My Position:** Front-end Developer
+**My Responsibilities:**
+- Tech Design
+- Coding, Test
+- Requirement Engineering
+
+**Technologies Used:** React, Node
+
+### Hai Lua Restaurant Order Management System
+
+- Digitalized the Order Management System of Hai Lua restaurant.
+- Integrated Cash & Non-cash payment methods.
+- Optimized the coordination between front & back of the restaurant.
+- Viewed and managed reports, data.
+
+**My Position:** Business Analyst
+**My Responsibilities:**
+- Elicitated & analyzed requirements
+- Created User Story according to Business Case
+- Analyzed as-is process, built & described to-be process by BPD
+- System analysis & created Use Case Diagram
+- Built-up system documents (Activity Diagram, Use Case Spec, BFD, State Diagram)
+- Designed UX/UI, built system mockup
