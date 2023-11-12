@@ -45,8 +45,28 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 
 ## Personal Projects
 
-| Project | Description | Team Size | My Position | Responsibilities | Technologies Used |
-|---------|-------------|-----------|-------------|------------------|-------------------|
-| Inventory Management System | Developed an Inventory Management System (IMS) for efficient inventory and product management. Implemented functionality for products, inventories, and reports. Managed activities like selling, producing, and purchasing products. Created a reporting system for product data. | 1 | Developer | Designed and developed IMS from scratch. Implemented clean architecture pattern. Conducted UI/UX Design. Created object-oriented modules for inventory and product management. | Blazor WebApp, .NET 6, Entity Framework Core |
-| Theatre Management System | Developed a digital platform for booking and managing theater shows. Integrated various payment gateways. Implemented real-time seat availability checks and booking. Created an analytics dashboard for performance and revenue tracking. | 3 | Developer | Designed and created UI/UX. Conducted testing for seamless user experience. Contributed to UI/UX design, coding, testing, and requirement engineering. | React, Node |
-| Hai Lua Restaurant Order Management System | Digitalized the Order Management System of Hai Lua restaurant. Optimized coordination between front & back of the restaurant. Viewed and managed reports and data. | - | Business Analyst | Elicited & analyzed requirements. Created User Stories based on Business Case. Analyzed and described as-is and to-be processes using BPD. Developed system documents and designed UX/UI. | - |
+| **Project**                  | Inventory Management System                          |
+|-----------------------------|----------------------------------------------------|
+| **Description**             | Developed an Inventory Management System (IMS) for efficient inventory and product management. Implemented functionality for products, inventories, and reports. Managed activities like selling, producing, and purchasing products. Created a reporting system for product data. |
+| **Team Size**               | 1                                                  |
+| **My Position**             | Developer                                          |
+| **Responsibilities**        | - Designed and developed IMS from scratch. - Implemented clean architecture pattern. - Conducted UI/UX Design. - Created object-oriented modules for inventory and product management. |
+| **Technologies Used**       | Blazor WebApp, .NET 6, Entity Framework Core        |
+
+| **Project**                  | Theatre Management System                            |
+|-----------------------------|----------------------------------------------------|
+| **Description**             | Developed a digital platform for booking and managing theater shows. Integrated various payment gateways. Implemented real-time seat availability checks and booking. Created an analytics dashboard for performance and revenue tracking. |
+| **Team Size**               | 3                                                  |
+| **My Position**             | Developer                                          |
+| **Responsibilities**        | - Designed and created UI/UX. - Conducted testing for seamless user experience. - Contributed to UI/UX design, coding, testing, and requirement engineering. |
+| **Technologies Used**       | React, Node                                        |
+
+| **Project**                  | Hai Lua Restaurant Order Management System            |
+|-----------------------------|----------------------------------------------------|
+| **Description**             | Digitalized the Order Management System of Hai Lua restaurant. Optimized coordination between front & back of the restaurant. Viewed and managed reports and data. |
+| **Team Size**               | -                                                  |
+| **My Position**             | Business Analyst                                   |
+| **Responsibilities**        | - Elicited & analyzed requirements. - Created User Stories based on Business Case. - Analyzed and described as-is and to-be processes using BPD. - Developed system documents and designed UX/UI. |
+| **Technologies Used**       | -                                                  |
+                                                                                         |
+
