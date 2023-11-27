@@ -10,7 +10,7 @@
 
 ## Objective
 
-I am seeking the position of a Developer where I can put to use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I am seeking a Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Education
 
@@ -29,7 +29,8 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
   
 ## Skills
 
-- **Programming Languages:**   **C#**, **.NET**, **JavaScript**, **React**, SQL, CSS, SCSS/HTML, etc.
+- **Programming Languages:**   **C#**, **Reusable C# libraries**, **.NET framework**,**Knowledge of Object-Oriented Programming**
+, **MS SQL server**, React, Javascript, CSS, SCSS/HTML, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..), Business Process Analysis. 	
 - **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
@@ -51,7 +52,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 | **Team Size**               | 1                                                  |
 | **My Position**             | Developer                                          |
 | **Responsibilities**        | - Designed and developed IMS from scratch.<br>- Implemented clean architecture pattern.<br>- Conducted UI/UX Design.<br>- Created object-oriented modules for inventory and product management. |
-| **Technologies Used**       | Blazor WebApp, .NET 6, Entity Framework Core        |
+| **Technologies Used**       | Blazor Web Application, .NET 6, Entity Framework Core, C#        |
 
 | **Project**                  | Theatre Management System                            |
 |-----------------------------|----------------------------------------------------|
@@ -59,7 +60,7 @@ I am seeking the position of a Developer where I can put to use the knowledge ga
 | **Team Size**               | 3                                                  |
 | **My Position**             | Developer                                          |
 | **Responsibilities**        | - Designed and created UI/UX.<br>- Conducted testing for seamless user experience.<br>- Contributed to UI/UX design, coding, testing, and requirement engineering. |
-| **Technologies Used**       | React, Node                                        |
+| **Technologies Used**       | React, Nodejs, Javascript                                        |
 
 | **Project**                  | Hai Lua Restaurant Order Management System            |
 |-----------------------------|----------------------------------------------------|
