@@ -17,7 +17,7 @@ I am seeking a Developer position where I can use the knowledge gained in the so
 - **Programming Languages:**   **C#**, **Reusable C# libraries**, **.NET framework**,**Knowledge of Object-Oriented Programming**,
 , **SQL**, Javascript, CSS, SCSS/HTML, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..).
-- **Software Knowledge:** **ASP .NET**,**EF Core**, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
+- **Software Knowledge:** **ASP .NET FrameWork**,**EF Core**,**MVC**, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
 ## Personal Projects
 
