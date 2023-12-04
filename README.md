@@ -48,7 +48,7 @@ I am seeking a Developer position where I can use the knowledge gained in the so
 ## Work History 
 
 ### ESORITY LLC, Garland, Texas 
-**E-commerce Business Development Team Leader**  
+**E-commerce Business Development Team Leader(Remote)**  
 *Duration: 12/2020 – 6/2023*
 - Conduct market research and product analysis to identify new trends in E-commerce sites.
 - Established relationships with brands and distributors, negotiating prices and terms.
