@@ -42,7 +42,7 @@ I am seeking a Developer position where I can use the knowledge gained in the so
 | **Team Size**               | 1                                                  |
 | **My Position**             | Developer                                          |
 | **Responsibilities**        | - Designed and developed IMS from scratch.<br>- Implemented clean architecture pattern.<br>- Conducted UI/UX Design.<br>- Created object-oriented modules for inventory and product management. |
-| **Technologies Used**       | Blazor Web Application, .NET 6, Entity Framework Core, C#        |
+| **Technologies Used**       | Blazor Web Application, .NET 6, C#, Entity Framework Core,MS SQL, Basic LinQ        |
 
 
 ## Work History 
