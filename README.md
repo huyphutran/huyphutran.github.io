@@ -15,7 +15,7 @@ Experienced E-commerce Business Development Team Leader with 2 years of expertis
 - **Programming Languages:**   **C#**, **Reusable C# libraries**, **.NET framework**,**Knowledge of Object-Oriented Programming**,
 , **SQL**, Javascript, CSS, SCSS/HTML, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..).
-- **Soft Skill Knowledge:** **Market Research** **Strategic Planning** **Negotiation** **Collaboration** **Team Leadership**
+- **Soft Skill Knowledge:** **Market Research**, **Strategic Planning**, **Negotiation**, **Collaboration**, **Team Leadership**
 - **Software Knowledge:** SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
 ## Work History 
