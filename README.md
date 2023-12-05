@@ -9,32 +9,14 @@
 
 ## Objective
 
-I am seeking a position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
-
+Experienced E-commerce Business Development Team Leader with 2 years of expertise. Skilled in market research, product analysis, and cultivating relationships with brands and distributors. Proficient in task management using Jira and enhancing business processes. Seeking an IT support role to leverage my e-commerce business acumen and contribute effectively while broadening my technical and operational experiences.
 ## Skills
 
 - **Programming Languages:**   **C#**, **Reusable C# libraries**, **.NET framework**,**Knowledge of Object-Oriented Programming**,
 , **SQL**, Javascript, CSS, SCSS/HTML, etc.
 - **Additional Knowledge:**   Documents (BRD, SRS..).
-- **Software Knowledge:** **ASP .NET FrameWork**,**EF Core**,**MVC**, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
-
-## Personal Projects
-
-| **Project**                  | Inventory Management System                          |
-|-----------------------------|----------------------------------------------------|
-| **Description**             | Developed an Inventory Management System (IMS) for efficient inventory and product management. Implemented functionality for products, inventories, and reports. Managed activities like selling, producing, and purchasing products. Created a reporting system for product data. |
-| **Team Size**               | 1                                                  |
-| **My Position**             | Developer                                          |
-| **Responsibilities**        | - Designed and developed IMS from scratch.<br>- Implemented clean architecture pattern.<br>- Conducted UI/UX Design.<br>- Created object-oriented modules for inventory and product management. |
-| **Technologies Used**       | Blazor Web Application, .NET 6, C#, Entity Framework Core,MS SQL, Basic LinQ        |
-
-| **Project**                  | Hai Lua Restaurant Order Management System            |
-|-----------------------------|----------------------------------------------------|
-| **Description**             | Digitalized the Order Management System of Hai Lua restaurant. Optimized coordination between front & back of the restaurant.<br>Viewed and managed reports and data. |
-| **Team Size**               | -                                                  |
-| **My Position**             | Business Analyst                                   |
-| **Responsibilities**        | - Elicited & analyzed requirements.<br>- Created User Stories based on Business Case.<br>- Analyzed and described as-is and to-be processes using BPD.<br>- Developed system documents and designed UX/UI. |
-| **Technologies Used**       | -                                                  |
+- **Soft Skill Knowledge:** **Market Research** **Strategic Planning** **Negotiation** **Collaboration** **Team Leadership**
+- **Software Knowledge:** SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
 
 ## Work History 
 
@@ -42,9 +24,13 @@ I am seeking a position where I can use the knowledge gained in the software dev
 **E-commerce Business Development Team Leader(Remote)**  
 *Duration: 12/2020 – 6/2023*
 - Conduct market research and product analysis to identify new trends in E-commerce sites.
-- Established relationships with brands and distributors, negotiating prices and terms.
-- Create and track tasks KPI for team members on Jira.
+- Established relationships with brands and distributors, negotiating prices and terms achieving 15% Lead increase.
+- Create and track tasks KPI for team members on Jira achieved Q1 2023 revenue of USD 357,126.08, marking a 1.98x increase from Q4 2022.
 - Take part in developing new processes or procedures, and continually put into practice how to improve the processes.
+- Procurement Optimization: Enhanced data management, achieving a 20% reduction in processing times.
+
+**Achievements**
+- 2023 TOP Contributor Award (Increase Company Revenue from $80,000/month to $100,000 - $150,000 in Q1).
 
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
@@ -57,3 +43,14 @@ I am seeking a position where I can use the knowledge gained in the software dev
 - **Hai Lua Business Analysis Academy**  
   *2023*  
   - Certificate: Business Analyst Foundation.  
+
+## Personal Projects
+
+
+| **Project**                  | Hai Lua Restaurant Order Management System            |
+|-----------------------------|----------------------------------------------------|
+| **Description**             | Digitalized the Order Management System of Hai Lua restaurant. Optimized coordination between the front & back of the restaurant.<br>Viewed and managed reports and data. |
+| **Team Size**               | -                                                  |
+| **My Position**             | Business Analyst                                   |
+| **Responsibilities**        | - Elicited & analyzed requirements.<br>- Created User Stories based on Business Case.<br>- Analyzed and described as-is and to-be processes using BPD.<br>- Developed system documents and designed UX/UI. |
+| **Technologies Used**       | -                                                  |
