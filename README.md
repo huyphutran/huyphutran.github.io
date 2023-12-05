@@ -1,4 +1,3 @@
-# .NET Developer
 ## Contact Information
 - **Address:** Ho Chi Minh, Vietnam 71800
 - **Phone:** 0941413524
@@ -10,7 +9,7 @@
 
 ## Objective
 
-I am seeking a Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I am seeking a position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 
 ## Skills
 
@@ -28,6 +27,14 @@ I am seeking a Developer position where I can use the knowledge gained in the so
 | **My Position**             | Developer                                          |
 | **Responsibilities**        | - Designed and developed IMS from scratch.<br>- Implemented clean architecture pattern.<br>- Conducted UI/UX Design.<br>- Created object-oriented modules for inventory and product management. |
 | **Technologies Used**       | Blazor Web Application, .NET 6, C#, Entity Framework Core,MS SQL, Basic LinQ        |
+
+| **Project**                  | Hai Lua Restaurant Order Management System            |
+|-----------------------------|----------------------------------------------------|
+| **Description**             | Digitalized the Order Management System of Hai Lua restaurant. Optimized coordination between front & back of the restaurant.<br>Viewed and managed reports and data. |
+| **Team Size**               | -                                                  |
+| **My Position**             | Business Analyst                                   |
+| **Responsibilities**        | - Elicited & analyzed requirements.<br>- Created User Stories based on Business Case.<br>- Analyzed and described as-is and to-be processes using BPD.<br>- Developed system documents and designed UX/UI. |
+| **Technologies Used**       | -                                                  |
 
 ## Work History 
 
