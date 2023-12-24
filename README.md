@@ -3,6 +3,7 @@
 - **Address:** Ho Chi Minh, Vietnam 71800
 - **Phone:** 0941413524
 - **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/tran-phu-493ba8255.
 
 ## Objective
 
