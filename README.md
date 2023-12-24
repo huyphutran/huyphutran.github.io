@@ -3,11 +3,11 @@
 - **Address:** Ho Chi Minh, Vietnam 71800
 - **Phone:** 0941413524
 - **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
-- **LinkedIn:** https://www.linkedin.com/in/tran-phu-493ba8255.
+- **LinkedIn:** [linkedin.com/in/tran-phu-493ba8255](https://www.linkedin.com/in/tran-phu-493ba8255)
 
 ## Objective
 
-I am seeking a Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I am seeking a Fresher Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
