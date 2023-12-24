@@ -7,21 +7,34 @@
 ## Objective
 
 I am seeking a Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
-
 ## Education
-
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
   - Major: Information Technology 
-- **Udemy**  
-  - Certificate: Intermediate OOP, Classes and Structor.
-  - Certificate: Design Pattern.
-  
 ## Skills
 
-- **Programming Languages:**   **C#**, **Reusable C# libraries**, **.NET framework**,**Knowledge of Object-Oriented Programming**
-, **MS SQL server**, React, Javascript, CSS, SCSS/HTML, etc.
-- **Software Knowledge:** Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Git, Jira, Scrum/Agile
+### Programming Languages
+- **C#**
+- **.NET Framework, ASP.NET, ASP.NET Core, MVC (Model-View-Controller) Framework**
+- **Entity Framework, LINQ**
+- React, JavaScript, CSS, SCSS/HTML
+
+### Database Technologies
+- **MS SQL Server**
+- **Entity Framework**
+
+### Cloud Services Practice
+- **Azure Cloud Services(OAuth 2.0)**
+
+### Development Practices
+- **RESTful API Development**
+- **Knowledge of Object-Oriented Programming**
+- **Agile Methodology, SCRUM**
+
+### Software Knowledge
+- **Visual Studio, Visual Studio Code**
+- **SQL Server Management Studio, Postman**
+- **Git, Jira**
 
 
 ## Personal Projects
