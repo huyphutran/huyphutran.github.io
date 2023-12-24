@@ -54,5 +54,5 @@ I am seeking a Developer position where I can use the knowledge gained in the so
 | **Team Size**               | 3                                                  |
 | **My Position**             | Developer                                          |
 | **Responsibilities**        | Develop server-side application logic in C# to handle course enrollment, waitlist management, and user authentication.<br>  Implement the Model-View-Controller (MVC) architecture in C# to organize code structure and enable modular development.<br> Test back-end functions to ensure system reliability and efficiency.|
-| **Technologies Used**       |  Web Application, MVC , C#                                        |
+| **Technologies Used**       |  Web Application, MVC , C#  , RESTful API                                     |
 
