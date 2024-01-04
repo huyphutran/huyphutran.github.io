@@ -21,7 +21,6 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 
 ### Database Technologies
 - **MS SQL Server**
-- **Entity Framework**
 
 ### Cloud Services Practice
 - **Azure Cloud Services(OAuth 2.0)**
