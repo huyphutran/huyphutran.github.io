@@ -11,8 +11,7 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
-  - Major: Information Technology 
-## Skills
+  - Major: Information Technology `
 
 ### Programming Languages
 - **C#**
