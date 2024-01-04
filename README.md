@@ -11,7 +11,16 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
-  - Major: Information Technology `
+  - Major: Information Technology
+ 
+ ## Experience
+
+###  Esority LLC - Garland, TX, USA (Remote) 
+ May 1, 2022 - August 1, 2022 <br>
+**Internship** <br>
+- Participated in a project focused on developing a Google App Script site to pull data from third-party APIs (Keepa - Price tracker) to gather sales and product list information from Amazon.
+
+
 
 ### Programming Languages
 - **C#**
@@ -36,7 +45,20 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 - **Git, Jira**
 
 
-## Personal Projects
+
+
+
+## Esority LLC
+| **Project**                  | Google App Script and Keepa API Integration For Inventory Management           |
+|-----------------------------|-------------------------------------------------------|
+| **Description**             | Worked on a project integrating Google App Script with Keepa API to extract sales data from Amazon. The project focused on collecting comprehensive sales information including sales, profit margins, seller listings, and stock levels. |
+| **Team Size**               | 2                                 |
+| **My Position**             | Developer                                 |
+| **Responsibilities**        |  Participated in technical design<br>   Coding, debugging and testing<br>  Implemented design patterns<br>  Conducted requirement engineering |
+| **Technologies Used**       | Google App Script, Keepa API, Javascript      |
+
+
+## Personal  Projects
 
 | **Project**                  | Inventory Management System                          |
 |-----------------------------|----------------------------------------------------|
@@ -45,6 +67,8 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 | **My Position**             | Developer                                          |
 | **Responsibilities**        |  Designed and developed IMS from scratch.<br> Implemented Clean architecture pattern to organize code structure and enable modular development.<br> Conducted UI/UX Design.<br> Created object-oriented modules for inventory and product management.<br> Implement Identity libraries to handle user authentication and authorization for the user department. |
 | **Technologies Used**       | Blazor Web Application, .NET 6, Entity Framework Core, C#        |
+
+
 
 | **Project**                  | Student Course Management System                            |
 |-----------------------------|----------------------------------------------------|
