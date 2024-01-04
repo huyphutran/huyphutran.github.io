@@ -12,6 +12,8 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
   - Major: Information Technology
+
+## Experience
 ### Esority LLC - Garland, TX, USA (Remote)
 - **Internship**
   - **Duration:** May 1, 2022 - August 1, 2022
