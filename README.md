@@ -12,11 +12,10 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
   - Major: Information Technology
-## Experience
-**Esority LLC - Garland, TX, USA (Remote)** 
- **May 1, 2022 - August 1, 2022 <br>**
-**Internship** <br>
-- Participated in a project focused on developing a Google App Script site to pull data from third-party APIs (Keepa - Price tracker) to gather sales and product list information from Amazon.
+### Esority LLC - Garland, TX, USA (Remote)
+- **Internship**
+  - **Duration:** May 1, 2022 - August 1, 2022
+  - **Role:** Participated in a project to develop a Google App Script to extract data from third-party APIs (Keepa - Price tracker) to compile sales and product list information from Amazon.
 
 
 
