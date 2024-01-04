@@ -47,8 +47,8 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
 
 
 
-
 ## Esority LLC
+
 | **Project**                  | Google App Script and Keepa API Integration For Inventory Management           |
 |-----------------------------|-------------------------------------------------------|
 | **Description**             | Worked on a project integrating Google App Script with Keepa API to extract sales data from Amazon. The project focused on collecting comprehensive sales information including sales, profit margins, seller listings, and stock levels. |
