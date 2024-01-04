@@ -7,7 +7,8 @@
 
 ## Objective
 
-I am seeking a Fresher Developer position where I can use the knowledge gained in the software development cycle and technical aptitude. I aim to find a multi-domain organization where I can utilize my expertise to contribute and gain valuable experiences.
+I'm looking for a job as a fresher developer where I can put my technical skills and understanding of the software development cycle to work. My goal is to join a multidisciplinary company where I can use my experience and skills to help and learn.
+
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
   *2023*  
