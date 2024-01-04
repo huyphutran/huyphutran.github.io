@@ -13,8 +13,8 @@ I am seeking a Fresher Developer position where I can use the knowledge gained i
   *2023*  
   - Major: Information Technology
 ## Experience
-###  Esority LLC - Garland, TX, USA (Remote) 
- May 1, 2022 - August 1, 2022 <br>
+**Esority LLC - Garland, TX, USA (Remote)** 
+ **May 1, 2022 - August 1, 2022 <br>**
 **Internship** <br>
 - Participated in a project focused on developing a Google App Script site to pull data from third-party APIs (Keepa - Price tracker) to gather sales and product list information from Amazon.
 
