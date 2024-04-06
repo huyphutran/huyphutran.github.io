@@ -4,10 +4,13 @@
 - **Phone:** 0941413524
 - **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tran-phu-493ba8255](https://www.linkedin.com/in/tran-phu-493ba8255)
+- **GitHub:** [huyphutran](https://github.com/huyphutran)
+
 
 ## Objective
+NET Developer with 6 months of experience building web, batch, and business intelligence solutions. Skilled in ASP.NET, C#, and MS SQL. Eager to learn and contribute to impactful projects in a collaborative team setting
 
-I'm looking for a job as a backend developer where I can put my technical skills and understanding of the software development cycle to work. My goal is to join a multidisciplinary company where I can use my experience and skills to help and learn.
+I'm now seeking a backend developer role where I can leverage my technical expertise and grasp of the software development lifecycle. My aim is to join a dynamic company where I can contribute my skills, while also expanding my knowledge in a collaborative environment.
 
 ## Education
 - **Saigon Technology University, Ho Chi Minh**  
@@ -27,12 +30,14 @@ I'm looking for a job as a backend developer where I can put my technical skills
 
 ### Programming Languages
 **Skills:**
--  C#, React, JavaScript, CSS, SCSS/HTML.
-- .NET Framework, Entity Framework Core, LINQ.
--  MS SQL Server, Postgresql.
--  0Auth, Identity Authentication and Authorize.
--  RESTful API Development, Object-Oriented Programming.
--  Postman, Git, Github, Docker.
+- C#, OOP, SOLID, JavaScript, CSS, SCSS/HTML.
+- .NET Framework, Blazor, Web API, Webservices,
+  Data Migration, EF Core, LINQ.
+- MS SQL Server, Postgresql, Redis, Elasticsearch.
+- Authentication: Cookies, JWT, 0Auth.
+- REST API, JSON API.
+- Unit Test, Integration Testing
+- Postman, Github, Docker.
 
 ##  Projects
 
