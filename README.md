@@ -19,16 +19,9 @@
 
 ---
 
-## Education
-
-**Saigon Technology University, Ho Chi Minh**  
-**2023**  
-**Major:** Information Technology
-
----
-
 ## Work Experience
 **KMS Technology · Software Engineer**  
+
 May 2024 - Present
 
 **Project:** Conexiom
@@ -41,8 +34,10 @@ May 2024 - Present
 
 **ESORITY LLC · Internship Engineer**
 
-**Project:** Product Sales Tracker
 May 2023 - December 2023
+
+**Project:** Product Sales Tracker
+
 **Responsibilities:**
 - Developed a module for tracking Amazon product sales using ASP.NET.
 - Integrated API for real-time sales data.
@@ -64,23 +59,8 @@ May 2023 - December 2023
 
 ---
 
-## Projects
+## Education
 
-### Inventory Management System - WebApp Blazor
-
-- **Description:** Developed an Inventory Management System (IMS) for product management. Managed activities like selling, producing, and purchasing products. Created a reporting system for product data.
-- **Responsibilities:**
-  - Implemented clean architecture for streamlined development and improved code organization.
-  - Utilized Blazor WebAssembly components with Entity Framework, binding to server-side data, and leveraging SignalR for real-time updates.
-  - Incorporated Microsoft Identity for authentication and authorization, and specified Entity Framework for MS SQL.
-- **Technologies Used:** .NET Core, EF Core, C#, Microsoft SQL Server, Blazor, OOP, LINQ
-
-### Student Course Management System
-
-- **Description:** Streamlined student enrollment and course administration. Managed course materials and assignments. Created an analytics dashboard for performance and course completion rates.
-- **Responsibilities:**
-  - Implemented MVC architecture to enhance code organization.
-  - Implemented a secure user login authentication system using cookies.
-  - Defined and implemented backend REST APIs in .NET Framework.
-  - Utilized CRUD operations with MS SQL using EF Core.
-- **Technologies Used:** C#, REST APIs, EF Core, Microsoft SQL Server, ASP.NET MVC, OOP, LINQ
+**Saigon Technology University, Ho Chi Minh**  
+**2023**  
+**Major:** Information Technology
