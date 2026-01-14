@@ -37,7 +37,7 @@ May 2024 - Present
 - System Enhancement: Adapting system logic and configuration for diverse document layouts.
 - AI Remediation: Implementing critical production code changes through real-time on-call support for system stability and minimal downtime.
 - Client Communication: Translated business requirements into technical solutions through proactive communication.
-Tech Stack: C#, Regular Expressions, XML, SQL, CVS, Git, Electronic Data Interchange (EDI), Prophet 21
+- Tech Stack: C#, Regular Expressions, XML, SQL, CVS, Git, Electronic Data Interchange (EDI), Prophet 21
 
 **ESORITY LLC · Internship Engineer**
 
@@ -48,7 +48,7 @@ May 2023 - December 2023
 - Integrated API for real-time sales data.
 - Defined and implemented backend REST APIs using .NET Framework.
 - Utilized MS SQL and EF Core for CRUD operations on product records.
-Tech Stack: C#, SQL, Web API, .NET
+- Tech Stack: C#, SQL, Web API, .NET
 
 ---
 
