@@ -15,7 +15,7 @@
 
 ## Objective
 
-.NET Developer with 6 months of experience building web, batch, and business intelligence solutions. Skilled in ASP.NET, C#, and MS SQL. Seeking a backend developer role to leverage technical expertise and expand knowledge in a collaborative environment.
+.NET Developer with 2 years+ experience building web. Skilled in .NET, C#, and MS SQL. Seeking a backend developer role to leverage technical expertise and expand knowledge in a collaborative environment.
 
 ---
 
@@ -28,25 +28,38 @@
 ---
 
 ## Work Experience
+**KMS Technology · Software Engineer**  
+May 2024 - Present
 
-**ESORITY LLC · Internship**  
-**Project:** Amazon Product Sales Tracking
+**Project:** Conexiom
 
+**Responsibilities:**
+- System Enhancement: Adapting system logic and configuration for diverse document layouts.
+- AI Remediation: Implementing critical production code changes through real-time on-call support for system stability and minimal downtime.
+- Client Communication: Translated business requirements into technical solutions through proactive communication.
+Tech Stack: C#, Regular Expressions, XML, SQL, CVS, Git, Electronic Data Interchange (EDI), Prophet 21
+
+**ESORITY LLC · Internship Engineer**
+
+**Project:** Product Sales Tracker
+May 2023 - December 2023
+**Responsibilities:**
 - Developed a module for tracking Amazon product sales using ASP.NET.
-- Integrated Amazon MWS API for real-time sales data.
+- Integrated API for real-time sales data.
 - Defined and implemented backend REST APIs using .NET Framework.
-- Utilized MS SQL and EF Core for CRUD operations on Amazon product records.
+- Utilized MS SQL and EF Core for CRUD operations on product records.
+Tech Stack: C#, SQL, Web API, .NET
 
 ---
 
 ## Skills
 
-- **Languages:** C#, JavaScript, HTML, CSS, SCSS
-- **Frameworks & Technologies:** .NET Framework, Blazor, Web API, Webservices, Data Migration, EF Core, LINQ
-- **Databases:** MS SQL Server, PostgreSQL, Redis, Elasticsearch
+- **Languages:** C#, JavaScript
+- **Frameworks & Technologies:** .NET Framework, Blazor, Web API, EF Core, LINQ
+- **Databases:** MS SQL Server, PostgreSQL
 - **Authentication:** Cookies, JWT, OAuth
 - **API:** REST API, JSON API
-- **Testing:** Unit Test, Integration Testing
+- **Testing:** Unit Test
 - **Tools:** Postman, GitHub, Docker
 
 ---
