@@ -32,6 +32,13 @@ May 2024 - Present
 - Client Communication: Translated business requirements into technical solutions through proactive communication.
 - Tech Stack: C#, Regular Expressions, XML, SQL, CVS, Git, Electronic Data Interchange (EDI), Prophet 21
 
+**Achievement:**
+- Enhanced System Code: Optimized C# and business logic to handle diverse document structures, significantly reducing setup time for new layouts.
+- API Integration Stability: Investigated and resolved data response issues from the Prophet 21 API, ensuring seamless data synchronization with the customer's system.
+- Ensured Production Continuity: Minimized system downtime through proactive on-call support and rapid resolution of critical production issues.
+- Project Alignment: Successfully bridged business requirements and technical execution, ensuring all deliverables met client expectations.
+- Team Development: Contributed to faster onboarding and skill-up for new members by providing hands-on support and sharing best practices.
+
 **ESORITY LLC · Internship Engineer**
 
 May 2023 - December 2023
