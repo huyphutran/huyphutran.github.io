@@ -28,6 +28,7 @@ Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML, Git
 - Cross-Functional Collaboration: Translated client business requirements into technical specifications and led onboarding sessions for junior developers.
 
 Project: ZensMedical — Clinic Management System
+
 Tech Stack: C#, .NET, MediatR (CQRS), Web API, Next.js, TanStack Query, Axios, JWT, Node.js, Unit Testing
 
 April 2026 – Present
