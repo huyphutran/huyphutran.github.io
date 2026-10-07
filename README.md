@@ -1,7 +1,7 @@
 # Tran Huy Phu
  Software Engineer
 
-Ho Chi Minh City, Vietnam | 0941413524 | tranhuyphuhp75@gmail.com
+Ho Chi Minh City, Vietnam, Phone: 0941413524, Email: tranhuyphuhp75@gmail.com
 
 ---
 
@@ -20,7 +20,7 @@ Ho Chi Minh City, Vietnam · Hybrid
 May 2024
 
 Project: Conexiom
-Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML, Git
+Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML
 
 - System Architecture & Logic: Adapted system logic and data mapping configurations to handle complex, heterogeneous EDI document layouts, reducing layout onboarding time by ~30%.
 - Production Stability & Support: Served as on-call support for critical production incidents, diagnosing live defects and deploying immediate patches to maintain system availability.
@@ -29,7 +29,7 @@ Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML, Git
 
 Project: ZensMedical — Clinic Management System
 
-Tech Stack: C#, .NET, MediatR (CQRS), Web API, Next.js, TanStack Query, Axios, JWT, Node.js, Unit Testing
+Tech Stack: C#, .NET,  Next.js, TanStack Query, Axios, JWT, Node.js
 
 April 2026 – Present
 
@@ -44,14 +44,14 @@ April 2026 – Present
 
 ### ESORITY LLC — Software Engineer Intern
 
-301 E buckingham Rd suit 12 Garland, Texas, United States · Remote
+301 E buckingham Rd suit 12, Garland, Texas, United States · Remote
 
 May 2023 – December 2023
 
 Project: Product Sales Tracker
-Tech Stack: C#, ASP.NET Core, EF Core, MS SQL Server, REST API, Postman
+Tech Stack: C#, .NET, EF Core, MS SQL Server, REST API
 
-- API & Module Development: Designed and deployed RESTful APIs using ASP.NET Core and Entity Framework Core to process Amazon product sales metrics.
+- API & Module Development: Designed and deployed RESTful APIs using .NET  and Entity Framework Core to process Amazon product sales metrics.
 - Data Integration: Integrated third-party Amazon Seller APIs to fetch real-time sales data and persist results into SQL Server repositories.
 - Database Optimization: Structured database models and optimized LINQ queries to handle high-frequency CRUD operations efficiently.
 
@@ -60,10 +60,10 @@ Tech Stack: C#, ASP.NET Core, EF Core, MS SQL Server, REST API, Postman
 ## Technical Skills
 
 - Languages: C#, SQL, JavaScript
-- Frameworks & ORM: .NET Core / .NET Framework, ASP.NET Web API, Entity Framework Core, LINQ, MediatR (CQRS)
+- Frameworks & ORM: .NET Core / .NET Framework, ASP.NET Web API, Entity Framework Core, LINQ
 - Databases: MS SQL Server, PostgreSQL
-- Architecture & Security: RESTful APIs, JWT, OAuth 2.0, Cookie Authentication
-- Testing & Tools: xUnit, NUnit, Git / GitHub, Docker, Postman
+- Architecture & Security: RESTful APIs, JWT, OAuth 2.0
+- Testing & Tools: Git / GitHub, , Postman
 
 ---
 
