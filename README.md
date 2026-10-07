@@ -20,20 +20,20 @@ Ho Chi Minh City, Vietnam · Hybrid
 May 2024
 
 Project: Conexiom
+
 Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML
 
-- System Architecture & Logic: Adapted system logic and data mapping configurations to handle complex, heterogeneous EDI document layouts, reducing layout onboarding time by ~30%.
+- System Architecture & Logic: Adapted system logic and data mapping configurations to handle complex, heterogeneous EDI document layouts, reducing layout onboarding time by ~70%.
 - Production Stability & Support: Served as on-call support for critical production incidents, diagnosing live defects and deploying immediate patches to maintain system availability.
 - API Integration: Resolved data synchronization bottlenecks between internal services and the Prophet 21 API, restoring seamless multi-system data flow.
-- Cross-Functional Collaboration: Translated client business requirements into technical specifications and led onboarding sessions for junior developers.
+- Cross-Functional Collaboration: Translated client business requirements into technical specifications and led onboarding sessions for developers.
 
 Project: ZensMedical — Clinic Management System
 
-Tech Stack: C#, .NET,  Next.js, TanStack Query, Axios, JWT, Node.js
+Tech Stack: C#, .NET,  Next.js, TanStack Query, Axios, JWT
 
 April 2026 – Present
 
-- Data Integrity: Diagnosed and resolved a UTC offset bug causing patient date-of-birth and insurance dates to shift back one day on save in ahead-of-UTC timezones, ensuring accurate records across all regions.
 - System Cleanup: Identified and removed an orphaned lab result entry path (categorical Normal + self-verify flow) that bypassed validation, improving data consistency and workflow integrity.
 - Bug Fix: Corrected per-status count badges on Clinic and Department list views that were incorrectly computed from the current page rather than the full dataset, sourcing counts from a backend aggregate independent of pagination state.
 - Billing Engine: Extended the billing engine to apply rate plan and item pricing across lab, radiology, pharmacy, and supply order types, completing coverage after the initial consultation implementation.
