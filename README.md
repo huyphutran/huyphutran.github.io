@@ -1,73 +1,76 @@
 # Tran Huy Phu
-**.NET Developer**
+ Software Engineer
+
+Ho Chi Minh City, Vietnam | 0941413524 | tranhuyphuhp75@gmail.com
 
 ---
 
-## Contact Information
+## Summary
 
-- **Address:** Ho Chi Minh, Vietnam 71800
-- **Phone:** 0941413524
-- **E-mail:** [tranhuyphuhp75@gmail.com](mailto:tranhuyphuhp75@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tran-phu-493ba8255](https://linkedin.com/in/tran-phu-493ba8255)
-- **GitHub:** [huyphutran](https://github.com/huyphutran)
-
----
-
-## Objective
-
-.NET Developer with 2 years+ experience building web. Skilled in .NET, C#, and MS SQL. Seeking a backend developer role to leverage technical expertise and expand knowledge in a collaborative environment.
+Backend Software Engineer with over 2 years of experience building scalable web applications and RESTful APIs using C#, .NET Core, and SQL Server. Experienced in EDI document processing, third-party API integration, and production incident response. Comfortable working across the full backend lifecycle from database design to deployment.
 
 ---
 
 ## Work Experience
-**KMS Technology · Software Engineer**  
 
-May 2024 - Present
+### KMS Technology — Software Engineer
 
-**Project:** Conexiom
+Ho Chi Minh City, Vietnam · Hybrid
 
-**Responsibilities:**
-- System Enhancement: Adapting system logic and configuration for diverse document layouts.
-- AI Remediation: Implementing critical production code changes through real-time on-call support for system stability and minimal downtime.
-- Client Communication: Translated business requirements into technical solutions through proactive communication.
-- Tech Stack: C#, Regular Expressions, XML, SQL, CVS, Git, Electronic Data Interchange (EDI), Prophet 21
+May 2024
 
-**Achievement:**
-- Enhanced System Code: Optimized C# and business logic to handle diverse document structures, significantly reducing setup time for new layouts.
-- API Integration Stability: Investigated and resolved data response issues from the Prophet 21 API, ensuring seamless data synchronization with the customer's system.
-- Ensured Production Continuity: Minimized system downtime through proactive on-call support and rapid resolution of critical production issues.
-- Project Alignment: Successfully bridged business requirements and technical execution, ensuring all deliverables met client expectations.
-- Team Development: Contributed to faster onboarding and skill-up for new members by providing hands-on support and sharing best practices.
+Project: Conexiom
+Tech Stack: C#, .NET, Web API, SQL Server, EDI, Prophet 21 API, XML, Git
 
-**ESORITY LLC · Internship Engineer**
+- System Architecture & Logic: Adapted system logic and data mapping configurations to handle complex, heterogeneous EDI document layouts, reducing layout onboarding time by ~30%.
+- Production Stability & Support: Served as on-call support for critical production incidents, diagnosing live defects and deploying immediate patches to maintain system availability.
+- API Integration: Resolved data synchronization bottlenecks between internal services and the Prophet 21 API, restoring seamless multi-system data flow.
+- Cross-Functional Collaboration: Translated client business requirements into technical specifications and led onboarding sessions for junior developers.
 
-May 2023 - December 2023
+Project: ZensMedical — Clinic Management System
+Tech Stack: C#, .NET, MediatR (CQRS), Web API, Next.js, TanStack Query, Axios, JWT, Node.js, Unit Testing
 
-**Project:** Product Sales Tracker
+April 2026 – Present
 
-**Responsibilities:**
-- Developed a module for tracking Amazon product sales using ASP.NET.
-- Integrated API for real-time sales data.
-- Defined and implemented backend REST APIs using .NET Framework.
-- Utilized MS SQL and EF Core for CRUD operations on product records.
-- Tech Stack: C#, SQL, Web API, .NET
+- Data Integrity: Diagnosed and resolved a UTC offset bug causing patient date-of-birth and insurance dates to shift back one day on save in ahead-of-UTC timezones, ensuring accurate records across all regions.
+- System Cleanup: Identified and removed an orphaned lab result entry path (categorical Normal + self-verify flow) that bypassed validation, improving data consistency and workflow integrity.
+- Bug Fix: Corrected per-status count badges on Clinic and Department list views that were incorrectly computed from the current page rather than the full dataset, sourcing counts from a backend aggregate independent of pagination state.
+- Billing Engine: Extended the billing engine to apply rate plan and item pricing across lab, radiology, pharmacy, and supply order types, completing coverage after the initial consultation implementation.
+- Search & UX: Implemented chronological sorting for the test search dropdown by procedure time on the selected date, improving scheduling accuracy for clinical staff.
+- Cross-Team Data Flow: Exposed doctor special instructions to Lab and Radiology teams via dedicated API fields, enabling downstream clinical teams to act on physician notes without manual handoff.
 
 ---
 
-## Skills
+### ESORITY LLC — Software Engineer Intern
 
-- **Languages:** C#, JavaScript
-- **Frameworks & Technologies:** .NET Framework, Blazor, Web API, EF Core, LINQ
-- **Databases:** MS SQL Server, PostgreSQL
-- **Authentication:** Cookies, JWT, OAuth
-- **API:** REST API, JSON API
-- **Testing:** Unit Test
-- **Tools:** Postman, GitHub, Docker
+301 E buckingham Rd suit 12 Garland, Texas, United States · Remote
+
+May 2023 – December 2023
+
+Project: Product Sales Tracker
+Tech Stack: C#, ASP.NET Core, EF Core, MS SQL Server, REST API, Postman
+
+- API & Module Development: Designed and deployed RESTful APIs using ASP.NET Core and Entity Framework Core to process Amazon product sales metrics.
+- Data Integration: Integrated third-party Amazon Seller APIs to fetch real-time sales data and persist results into SQL Server repositories.
+- Database Optimization: Structured database models and optimized LINQ queries to handle high-frequency CRUD operations efficiently.
+
+---
+
+## Technical Skills
+
+- Languages: C#, SQL, JavaScript
+- Frameworks & ORM: .NET Core / .NET Framework, ASP.NET Web API, Entity Framework Core, LINQ, MediatR (CQRS)
+- Databases: MS SQL Server, PostgreSQL
+- Architecture & Security: RESTful APIs, JWT, OAuth 2.0, Cookie Authentication
+- Testing & Tools: xUnit, NUnit, Git / GitHub, Docker, Postman
 
 ---
 
 ## Education
 
-**Saigon Technology University, Ho Chi Minh**  
-**2023**  
-**Major:** Information Technology
+Saigon Technology University, Ho Chi Minh City
+Bachelor of Science in Information Technology, 2023
+
+## Certifications & Languages
+
+- **TOEIC Listening & Reading:** 880 / 990
