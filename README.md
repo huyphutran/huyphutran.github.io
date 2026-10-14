@@ -7,7 +7,7 @@ Ho Chi Minh City, Vietnam, Phone: 0941413524, Email: tranhuyphuhp75@gmail.com
 
 ## Summary
 
-Backend Software Engineer with over 2 years of experience building scalable web applications and RESTful APIs using C#, .NET Core, and SQL Server. Experienced in EDI document processing, third-party API integration, and production incident response. Comfortable working across the full backend lifecycle from database design to deployment.
+Backend Software Engineer with over 3 years of experience building scalable web applications and RESTful APIs using C#, .NET Core, and SQL Server. Experienced in EDI document processing, third-party API integration, and production incident response. Comfortable working across the full backend lifecycle from database design to deployment.
 
 ---
 
